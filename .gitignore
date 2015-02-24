@@ -1,0 +1,14 @@
+*.DS_Store
+
+# Maven
+target
+
+# Eclipse
+.settings
+.classpath
+.project
+
+# IntelliJ
+.idea
+local.properties
+*.iml
