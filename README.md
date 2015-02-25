@@ -37,10 +37,10 @@ Todo List
 	- [ ] API
 	- [ ] Tests
 	- [ ] Documentation
-- [ ] Implement Class API
-	- [ ] API
-	- [ ] Tests
-	- [ ] Documentation
+- [x] Implement Course API
+	- [x] API
+	- [x] Tests
+	- [x] Documentation
 - [ ] Implement Static (About Me, Resume Link, others..?) API
 	- [ ] API
 	- [ ] Tests
